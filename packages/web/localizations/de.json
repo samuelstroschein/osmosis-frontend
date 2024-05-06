@@ -55,7 +55,7 @@
   },
   "assetNotCompatible": "Dieses Asset ist nicht mit dieser Wallet kompatibel.",
   "clPositions": {
-    "inRange": "IM BEREICH",
+    "inRange": "IM BEREICHd",
     "nearBounds": "IN DER NÄHE DER GRENZEN",
     "outOfRange": "AUSSER REICHWEITE",
     "fullRange": "VOLLSTÄNDIGE PALETTE",
